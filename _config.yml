@@ -1,0 +1,17 @@
+title: 'Mehdi Massoudi'
+description: "Learn more about the developer everyone is raving about. Find your next product or employee here."
+baseurl: "/"
+url: "https://mehdimas.github.io"
+
+header_pages:
+  - index.md
+  - notes.md
+  - resume.md
+
+style: dark
+
+footer: 'follow me on <a href="https://twitter.com/MrMassoudi">twitter</a>'
+
+# Build settings
+markdown: kramdown
+remote_theme: b2a3e8/jekyll-theme-console
